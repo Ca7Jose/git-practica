@@ -6,6 +6,6 @@ Proyecto para aprender Git &amp; Github
 ´´´php
 <?php
   phpinfo();
-  ?>
-  ´´´
-  ## Descripcion
+?>
+´´´
+## Descripcion
